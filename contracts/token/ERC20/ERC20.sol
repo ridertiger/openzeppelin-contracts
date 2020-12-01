@@ -2,10 +2,9 @@
 
 pragma solidity >=0.6.0 <0.8.0;
 
-import "../../GSN/Context.sol";
-import "./IERC20.sol";
-import "../../math/SafeMath.sol";
-
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/GSN/Context.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/IERC20.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/math/SafeMath.sol";
 /**
  * @dev Implementation of the {IERC20} interface.
  *
